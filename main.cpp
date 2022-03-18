@@ -4,6 +4,8 @@ using namespace std;
 #include <string.h>
 #include "shapes.h"
 
+#VVVEAT hahahaha
+
 const char *usage = "Usage: a.out [type] [num1] [num2] \n"
 		    "	type - circle, rectangle, triangle \n"
 		    "	num1 - width or radius \n"
